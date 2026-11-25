@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-25 16:16",
+ "diperbarui": "2026-11-25 17:45",
  "jalan": "lanjut A6 produksi carousel calon-mitra Sel 24 Nov 12.00 (Felix di layar)",
  "item": [
   {
@@ -665,28 +665,28 @@
   },
   {
    "agent": "A5",
-   "tugas": "B20: verifikasi 1 baris menunggu-A5 (sintaks + MX). Reacher belum aktif: Docker Desktop belum terpasang, port 25 tertutup di jaringan ini.",
+   "tugas": "B20: verifikasi 3 baris menunggu-A5. Reacher terpasang dan hidup, port 25 terbuka di hotspot; Gmail/server lain tidak menjawab pasti.",
    "bukti": "outreach/ATURAN-A5-OTOMATIS.md",
    "status": "selesai"
   }
  ],
  "verifikasi": {
   "tanggal": "2026-11-25",
-  "dicek": 1,
-  "kirim": 1,
-  "tanya": 0,
+  "dicek": 3,
+  "kirim": 2,
+  "tanya": 1,
   "buang": 0,
   "per_status": {
    "safe": 0,
-   "mx-saja": 1,
+   "mx-saja": 2,
    "risky": 0,
-   "unknown": 0,
+   "unknown": 1,
    "invalid": 0,
    "tanpa-mx": 0,
    "sintaks-salah": 0
   },
-  "mesin": "mx-saja (sintaks + MX lolos; Docker Desktop belum terpasang, Reacher tidak hidup, port 25 tertutup)",
-  "catatan": "Kirim/tanya/buang memakai peta B20 (mx-saja -> KIRIM). Label skrip lokal masih TANYA FELIX untuk mx-saja. Alamat hanya di outreach/hasil-verifikasi-2026-11-25-1616.csv (laptop, tidak diunggah)."
+  "mesin": "Reacher hidup (Docker), port 25 terbuka lewat hotspot; 2 alamat Reacher timeout lalu jatuh ke mx-saja, 1 unknown (server tidak menjawab pasti)",
+  "catatan": "Peta B20: mx-saja -> KIRIM, unknown -> TANYA Felix. Alamat hanya di outreach/hasil-verifikasi-2026-11-25-1742.csv (laptop, tidak diunggah)."
  },
  "pertanyaan": [
   {
