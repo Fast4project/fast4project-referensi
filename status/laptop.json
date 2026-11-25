@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-25",
+ "diperbarui": "2026-11-25 16:16",
  "jalan": "lanjut A6 produksi carousel calon-mitra Sel 24 Nov 12.00 (Felix di layar)",
  "item": [
   {
@@ -662,42 +662,31 @@
    "tugas": "rombak v7 slide-penutup: VO mengalir + perpaduan animasi, orang, 3D",
    "bukti": "video/2026-11-25-slide-penutup/final-v7-vo.mp4",
    "status": "selesai"
+  },
+  {
+   "agent": "A5",
+   "tugas": "B20: verifikasi 1 baris menunggu-A5 (sintaks + MX). Reacher belum aktif: Docker Desktop belum terpasang, port 25 tertutup di jaringan ini.",
+   "bukti": "outreach/ATURAN-A5-OTOMATIS.md",
+   "status": "selesai"
   }
  ],
  "verifikasi": {
-  "tanggal": "2026-11-21",
-  "dicek": 4,
-  "kirim": 0,
-  "tanya": 3,
-  "buang": 1,
-  "mesin": "mx-saja (sintaks + MX lolos; Reacher tidak hidup, port 25 tertutup)",
-  "per_alamat": [
-   {
-    "urutan": 1,
-    "status": "mx-saja",
-    "tindakan": "TANYA",
-    "sumber": "tertulis di halaman Kontak situs resmi Tea Break Indo, dibuka 21 Nov"
-   },
-   {
-    "urutan": 2,
-    "status": "mx-saja",
-    "tindakan": "TANYA",
-    "sumber": "tertulis di halaman utama situs resmi, dibuka 21 Nov"
-   },
-   {
-    "urutan": 3,
-    "status": "mx-saja",
-    "tindakan": "TANYA",
-    "sumber": "tertulis di halaman utama situs resmi, dibuka 21 Nov"
-   },
-   {
-    "urutan": 4,
-    "status": "mx-saja",
-    "tindakan": "BUANG",
-    "sumber": "tidak ditemukan di situs resmi (6 halaman dicek); Felix putuskan jangan dikirim, 21 Nov"
-   }
-  ],
-  "catatan": "Urutan = urutan alamat di perintah A5 (marketing.transindoinnovative, beta-uas, momofin, algobash). Alamat utuh hanya di outreach/hasil-verifikasi-2026-11-21.csv (laptop, tidak diunggah)."
+  "tanggal": "2026-11-25",
+  "dicek": 1,
+  "kirim": 1,
+  "tanya": 0,
+  "buang": 0,
+  "per_status": {
+   "safe": 0,
+   "mx-saja": 1,
+   "risky": 0,
+   "unknown": 0,
+   "invalid": 0,
+   "tanpa-mx": 0,
+   "sintaks-salah": 0
+  },
+  "mesin": "mx-saja (sintaks + MX lolos; Docker Desktop belum terpasang, Reacher tidak hidup, port 25 tertutup)",
+  "catatan": "Kirim/tanya/buang memakai peta B20 (mx-saja -> KIRIM). Label skrip lokal masih TANYA FELIX untuk mx-saja. Alamat hanya di outreach/hasil-verifikasi-2026-11-25-1616.csv (laptop, tidak diunggah)."
  },
  "pertanyaan": [
   {
