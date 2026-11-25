@@ -1,0 +1,729 @@
+{
+ "diperbarui": "2026-11-25",
+ "jalan": "lanjut A6 produksi carousel calon-mitra Sel 24 Nov 12.00 (Felix di layar)",
+ "item": [
+  {
+   "format": "carousel",
+   "nama": "calon-mitra",
+   "antrian_id": "",
+   "seri": "S-B",
+   "audiens": "umkm",
+   "jam_tayang": "2026-11-24 12:00",
+   "status": "siap-unggah",
+   "ganti_dari": "kamus-investor",
+   "judul": "Calon mitra cari tiga hal",
+   "caption": "Kamu menulis sejarah usahamu. Calon mitra mencari jawaban.\n\nAda 3 hal yang mereka cari:\n1. Sanggup berapa banyak. Contoh: kirim sayur 2 ton per minggu ke 40 dapur.\n2. Sudah pernah kerja seperti ini. Contoh: memasok 12 katering kantor sejak 2024.\n3. Kalau ada masalah, hubungi siapa. Contoh: Rina, koordinator pengiriman, WA dibalas sebelum 10.00.\n\nSejarah, visi, dan misi cukup satu baris di bawahnya.\n\nBerapa baris sejarah di halaman Tentang Kami-mu sekarang? Tulis angkanya di komentar.\n\nSimpan postingan ini. Cek lagi sebelum kirim profil ke calon mitra.\n\nContoh dari SEMBADA, usaha karangan untuk portofolio. Angka ilustratif.\n\n#umkm #proposalkemitraan #bisnisumkm #tipsusaha #presentasi",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/6ea705fdff900501e29d92b54e63fffb84a4b832/carousel-24-nov-calon-mitra-v5/halaman-1.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/ae2738b4aac385c66f5136f90f37f2016035f01d/carousel-24-nov-calon-mitra-v5/halaman-2.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/7670b9e0c7562333cdcc330ee138fcfb9615e70c/carousel-24-nov-calon-mitra-v5/halaman-3.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/7391cc29dec5620db7d14e0ccc337c0668083aaf/carousel-24-nov-calon-mitra-v5/halaman-4.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/d78b2642ffd2076faa6052007ed789af69f450f9/carousel-24-nov-calon-mitra-v5/halaman-5.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/d84ec30e7c04fb7da463ccd4e6873033d085f2b6/carousel-24-nov-calon-mitra-v5/halaman-6.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/f279c217acc1c5ae140ed5b82f21cebad7240ebe/carousel-24-nov-calon-mitra-v5/halaman-7.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/0f3f33c320aa14ee3a829d82747118049ca138e6/carousel-24-nov-calon-mitra-v5/halaman-8.jpg"
+   ],
+   "qc": "V5 23 Nov (permintaan Felix: kata lebih simple, kalimat jelas, tidak membingungkan dan kaku). Perubahan: hook 'KAMU TULIS SEJARAH. MITRA CARI JAWABAN.' ('cerita' diganti 'tulis'); label SEBELUM / SESUDAH; judul slide 2 'Selesai baca, mitra masih bingung: bisa kerja sama atau tidak?'; pertanyaan slide 4 'Sudah pernah kerja seperti ini?'; slide 6 'Taruh 3 jawaban di depan. Sejarah cukup satu baris.'; slide 7 'Coba cek halaman Tentang Kami-mu sekarang.' dengan dua butir hitung yang menyebut apa yang dihitung; angka ditulis 3 bukan 'tiga' di judul; kalimat jembatan dipendekkan. Caption diselaraskan (Ada 3 hal yang mereka cari, Sudah pernah kerja seperti ini). Angka, nama Rina, isi kartu SEMBADA, label karangan tidak diubah. Desain dan hero sama dengan V4. Pemeriksa browser 0 temuan, cek-tabrakan-teks 0 temuan, lembar kontak dilihat. cek-tulisan-manusia caption dan teks slide KRITIS 0. 8 JPG di carousel-24-nov-calon-mitra-v5, URL lolos.",
+   "copy": "kata disederhanakan atas permintaan Felix 23 Nov ('lebih simple, jelas, tidak kaku'); ditulis langsung tanpa opsi karena Felix meminta penyusunan",
+   "alasan_pilihan": "Perintah /manager lanjut A6 dari Felix 23 Nov: produksi claude/produksi-2026-11-24-carousel-calon-mitra.md, ganti kamus-investor di slot Sel 24 Nov 12.00.",
+   "cadangan_v1": {
+    "urls": [
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/2aa941b37d4e3fe04cf0e78cfe86089e29ba21cc/carousel-24-nov-calon-mitra/halaman-1.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/ddbae9c8b2af8588ba14a6553ad942e2a68e884a/carousel-24-nov-calon-mitra/halaman-2.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/bd9006a9c0efc5a942fa36a2b80d8aa820b11857/carousel-24-nov-calon-mitra/halaman-3.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/a5dd6ee746ee504317aa031e72acd054a2f5df2d/carousel-24-nov-calon-mitra/halaman-4.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/f22bbc0e726cba271a3d30c711d045c7d10fe996/carousel-24-nov-calon-mitra/halaman-5.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/a97fa08de714c61c6c2a7073cf43cba3bd726491/carousel-24-nov-calon-mitra/halaman-6.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/27b6007e6059d90bbc972d0f19e549f2a2648f21/carousel-24-nov-calon-mitra/halaman-7.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/a7d31a4352e8b0b46ca129132301be92759ee454/carousel-24-nov-calon-mitra/halaman-8.jpg"
+    ],
+    "catatan": "V1 (folder carousel-24-nov-calon-mitra), dibangun 23 Nov sebelum rombak; arsip lokal jadi-v1/. Jangan tayang bersama V2."
+   },
+   "versi": "v5",
+   "cadangan_v2": {
+    "urls": [
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/fa4264a4588c225fb0c4e221cec31bbc919f267e/carousel-24-nov-calon-mitra-v2/halaman-1.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/088f6c7047335d86cbfd8ed55c449018bef1dcb5/carousel-24-nov-calon-mitra-v2/halaman-2.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/06b96d9f1777e42dbe7d5aa3919a2cb26183ca89/carousel-24-nov-calon-mitra-v2/halaman-3.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/6532830c7a70099f9093f50b6a786a5b2e4f04a2/carousel-24-nov-calon-mitra-v2/halaman-4.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/1c86860d6d75f5073352f7cda83bfdb835cc6165/carousel-24-nov-calon-mitra-v2/halaman-5.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/f0b9360ef172b106a75b085daafcd62591aadcd0/carousel-24-nov-calon-mitra-v2/halaman-6.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/cbb74845f8f4e7a01ef9c5ca8eb1627c9948fe40/carousel-24-nov-calon-mitra-v2/halaman-7.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/16f603e378d754d5f265f893e45c4942e0ea42f4/carousel-24-nov-calon-mitra-v2/halaman-8.jpg"
+    ],
+    "catatan": "V2 (folder carousel-24-nov-calon-mitra-v2). Jangan tayang bersama V3."
+   },
+   "cadangan_v3": {
+    "urls": [
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/4bc75d1569b52197f18bf7e87844a2f1fd76948c/carousel-24-nov-calon-mitra-v3/halaman-1.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/15c477ed710c26774d93f34a805e2523743beb0b/carousel-24-nov-calon-mitra-v3/halaman-2.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/38cdc7890fb9f3f20d67053cec95574972822ae8/carousel-24-nov-calon-mitra-v3/halaman-3.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/44a2e6c9aefcde244f7a2f7d224b0da1f97eb32e/carousel-24-nov-calon-mitra-v3/halaman-4.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/de6f96ea94a887041b6e075e640c81d2ebcc9574/carousel-24-nov-calon-mitra-v3/halaman-5.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/ce32c5afe5513c2810288c5eb3f88f85e0b877f6/carousel-24-nov-calon-mitra-v3/halaman-6.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/b784b0b1d166cb77d86686b3b435ca15fba27529/carousel-24-nov-calon-mitra-v3/halaman-7.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/2e93d8c9ca57a8b324ccd6fbee8b925ec68564c2/carousel-24-nov-calon-mitra-v3/halaman-8.jpg"
+    ],
+    "catatan": "V3 (folder carousel-24-nov-calon-mitra-v3, tanpa hero foto). Jangan tayang bersama V4."
+   },
+   "cadangan_v4": {
+    "urls": [
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/1e5b4f6b7d638e1fd423c73218bbde0c4f1393ae/carousel-24-nov-calon-mitra-v4/halaman-1.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/a0908d788fe573568bbe7fa40d302571df44948f/carousel-24-nov-calon-mitra-v4/halaman-2.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/fb28d6c70ba4c06e95dab56eecd9535bb5b365d0/carousel-24-nov-calon-mitra-v4/halaman-3.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/288673f2b94634c892a4eb00172ab24dbe802574/carousel-24-nov-calon-mitra-v4/halaman-4.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/171c72c4197945ee75a7b404bf77299d5ad4330d/carousel-24-nov-calon-mitra-v4/halaman-5.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/d613eaef8e5f22b2e4677564fdaaed323342a1c1/carousel-24-nov-calon-mitra-v4/halaman-6.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/d7c8e680b1939e5d281293780f839dd79b3da876/carousel-24-nov-calon-mitra-v4/halaman-7.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/d59be60a3225862ce2489286ecd592e8715ba66f/carousel-24-nov-calon-mitra-v4/halaman-8.jpg"
+    ],
+    "catatan": "V4 (folder carousel-24-nov-calon-mitra-v4), kata lebih kaku. Jangan tayang bersama V5."
+   }
+  },
+  {
+   "format": "carousel",
+   "nama": "tiga-posting",
+   "antrian_id": "",
+   "seri": "S-G",
+   "audiens": "umkm",
+   "jam_tayang": "2026-11-20 12:00",
+   "status": "dikerjakan",
+   "judul": "Sebelum jualan, posting tiga ini dulu",
+   "caption": "",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/00c5c0fb1bdac24ba1f6f5eb791e0612baa0696e/carousel-20-nov-tiga-posting/halaman-1.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/6c2bcd178a5641812d1808ea9d8b0ddaf0da31a4/carousel-20-nov-tiga-posting/halaman-2.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/77a0aada626337d314aba58e094206d4a1a131b0/carousel-20-nov-tiga-posting/halaman-3.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/dfe8168aa92468f6f55840717039523139f1eac7/carousel-20-nov-tiga-posting/halaman-4.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/a9e0f05c511e1ba3e1ffc5d25dd6fcd5aacbc9e0/carousel-20-nov-tiga-posting/halaman-5.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/f2f2df5ceca9769286c2d244a874ed3e5201bf1c/carousel-20-nov-tiga-posting/halaman-6.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/734eb6e33e262444c39ebe5b05e70894cc3b79c2/carousel-20-nov-tiga-posting/halaman-7.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/14ae59e7e568d16d4d99214fd1e86c594c0c6464/carousel-20-nov-tiga-posting/halaman-8.jpg"
+   ],
+   "qc": "Rombak desain arah C Grid Gelap Emas (P3 + terang F6F5FF), dipilih Felix 19 Nov. Teks 8 slide sama persis dengan versi lama (disalin dari PNG yang Felix tempel). 8 JPG 1080x1350. Pemeriksa tata letak browser: 0 tabrakan, 0 teks keluar kanvas/luber. Kontras terendah 7,6:1. cek-tulisan-manusia: lolos, 0 KRITIS. Lembar kontak dilihat. 8 URL raw HTTP 200. MENUNGGU caption persis dari Felix sebelum siap-unggah.",
+   "alasan_pilihan": "Perintah /manager lanjut A1 dari Manager cloud; slot Jum 20 Nov 12.00. Item kamus-investor tidak disentuh (Felix: cloud yang atur)."
+  },
+  {
+   "format": "reels",
+   "nama": "bio-usaha",
+   "antrian_id": "",
+   "seri": "S-G",
+   "audiens": "umkm",
+   "tema": "A",
+   "jam_tayang": "2026-11-19 19:30",
+   "status": "siap-unggah",
+   "judul": "Bio usahamu lolos tes 3 detik?",
+   "caption": "Orang yang membuka profil usahamu biasanya cuma sebentar. Dalam tiga detik, bio harus menjawab tiga hal: jual apa, kirim ke mana, dan cara pesannya.\n\nBio \"Happy shopping. Est. 2021. DM for order.\" belum menjawab satu pun.\n\nTulis ulang satu baris satu jawaban:\nKeripik singkong pedas, tiga level.\nKirim se-Bandung.\nPesan: ketuk WA di bawah.\n\nBio-mu kurang yang mana? Tulis APA, MANA, atau PESAN di komentar.\n\nContoh di video dari Keripik Dapur Sumi, usaha karangan untuk portofolio.\n\nKirim ke teman yang baru buka toko online.\n\n#umkm #bisnisumkm #tipsusaha #instagrambisnis #jualanonline",
+   "caption_tiktok": "Bio usahamu lolos tes 3 detik? Jual apa, kirim ke mana, pesan lewat mana. Kurang yang mana: APA, MANA, atau PESAN? Usaha karangan untuk portofolio.\n\n#umkm #bisnisumkm #tipsusaha #jualanonline",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/22a30897e090087a0b34723cd97802942806cd46/reels-19-nov-bio-usaha/final.mp4"
+   ],
+   "cover": {
+    "thumb_offset": 500
+   },
+   "qc": "V4 18 Nov (koreksi Felix: suara harus benar-benar serupa Reels 13 Nov; efek suara bindeng dan mantul harus jernih/HD). Suara Liam ('Liam - Energetic, Social Media Creator') multilingual v2, SATU tarikan untuk semua baris seperti 13 Nov, tanpa tag emosi, tempo asli (tidak diregangkan; hanya hening dipendekkan, susun_vo_hd.py), volume per baris seperti 13 Nov. Setelan API 13 Nov (style 0,35, speed 1,10) tidak bisa dipakai: kuota API laptop 32 huruf, reset 4 Des. Sumber bindeng/mantul dibuang: rubberband, lowpass 9 kHz pada SFX, tunda Haas 10 ms. SFX baru sfx-hd/ (48 kHz rentang penuh, tanpa ekor gema, buat_sfx_hd.py). Mix campur_hd.py: VO highpass 70 Hz saja, SFX tanpa lowpass, ducking ringan, AAC 320k. final.mp4 1080x1920, 30 fps, 35,2 dtk. Hook utuh frame 0, SFX hit 0,00, VO 0,00. -14,4 LUFS, true peak -1,6 dBFS, LRA 3,4. Tema A, 13 adegan, ketukan dari jeda frasa Liam. ukur-retensi 5/6 (G2 1,8 dtk di 10,7 = catatan B12.2, 2 putaran). cek-format 10/11 (F2 durasi 35,2 = catatan, akibat tempo asli). Teks ucapan, caption, caption_tiktok 0 KRITIS. Teks layar, caption, naskah tidak berubah. Lembar frame dilihat, teks utuh. Belum didengar Felix versi lengkap. V1-V3 di arsip/, tidak dipakai.",
+   "alasan_pilihan": "Perintah /manager lanjut A6 dari Felix, naskah persis produksi-2026-11-19-bio-usaha.md (keputusan Felix 16 Nov Q1). slide-foto digeser ke 23-28 Nov.",
+   "versi": "v4"
+  },
+  {
+   "format": "reels",
+   "nama": "deck-atau-katalog",
+   "antrian_id": "",
+   "seri": "S-E",
+   "jam_tayang": "2026-11-18 19:30",
+   "status": "siap-unggah",
+   "judul": "Deck atau katalog? Salah kirim, pembacanya bingung",
+   "caption": "Deck atau katalog? Kalau salah kirim, pembacanya bingung harus melakukan apa.\n\nDeck dibaca calon mitra atau pemodal, yang diminta memutuskan: ikut atau tidak. Katalog dibaca calon pembeli, yang diminta memilih: produk apa, harganya berapa, cara pesannya bagaimana.\n\nContoh di video: Geprek Lumbung mengirim deck kemitraan ke pembeli yang cuma mau pesan. Pembeli itu tidak menemukan harga paket dan cara pesan.\n\nTanya satu hal sebelum mengirim: pembacanya mau memutuskan apa?\n\nMinggu ini kamu kirim dokumen ke siapa? Tulis MITRA atau PEMBELI di komentar.\n\nGeprek Lumbung: usaha karangan untuk portofolio. Contoh di video hanya ilustrasi.\n\n#katalogusaha #pitchdeck #umkm #proposalkemitraan #presentasi",
+   "caption_tiktok": "Deck atau katalog? Kamu kirim ke siapa minggu ini: MITRA atau PEMBELI? Tulis di komentar. Geprek Lumbung: usaha karangan.\n\n#katalogusaha #pitchdeck #umkm #tipsusaha",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/9b26ab38e97cf3306ebfe92d6b67b83aa17d854f/reels-18-nov-deck-atau-katalog/final.mp4"
+   ],
+   "cover": {
+    "thumb_offset": 500
+   },
+   "qc": "Video dirender 16 Nov sore (final.mp4 1080x1920, 30,2 dtk, true peak -1,7 dBFS, LRA 3,1). Lembar frame dilihat 18 Nov: teks utuh, label usaha karangan ada. Durasi 30,2 dtk di atas 28 = catatan, tidak menahan tayang. Suara: kemungkinan edge-tts (buat_vo_edge.py di folder), BUKAN standar Liam 19 Nov; Felix diminta memutar dan memilih 'oke, siapkan unggah' 18 Nov. Naskah dan caption [CEK KATA] lolos. URL lolos pemeriksaan unggah_media (raw dan jsdelivr). Belum diukur ulang dengan ukur-retensi dan cek-format.",
+   "alasan_pilihan": "Slot Rab 18 Nov kosong; seri S-E jembatan pertama B18.15.4 butir 5; stok 16-21 Nov penuh S-A..S-D, porsi S-E/S-F/S-G belum terisi."
+  },
+  {
+   "format": "reels",
+   "nama": "slide-masalah",
+   "antrian_id": "",
+   "seri": "S-C",
+   "tema": "D",
+   "jam_tayang": "2026-11-17 19:30",
+   "status": "siap-unggah",
+   "judul": "Slide masalahmu cuma satu kalimat?",
+   "caption": "\"Banyak orang sulit cari makan siang sehat.\"\n\nKalau slide masalahmu cuma berisi kalimat ini, pembaca dek langsung bertanya tiga hal: siapa orangnya, seberapa sulit, dan akibatnya apa.\n\nJawab masing-masing dengan satu baris:\nSiapa: pekerja kantor yang istirahatnya 45 menit.\nSeberapa: antre 20 menit di warung terdekat.\nAkibat: sisa waktu makan 10 menit, yang dibeli gorengan.\n\nDengan tiga baris ini, pembaca dekmu bisa mengecek masalahnya sendiri.\n\nSlide masalahmu kurang yang mana? Tulis SIAPA, SEBERAPA, atau AKIBAT di komentar.\n\nSimpan, cek lagi sebelum dekmu dikirim.\n\nContoh di video dari Katering Rantang Hijau, usaha karangan untuk portofolio. Semua angka ilustratif.\n\n#pitchdeck #umkm #proposalusaha #proposalkemitraan #presentasi",
+   "caption_tiktok": "Slide masalahmu cuma satu kalimat? Kurang yang mana: SIAPA, SEBERAPA, atau AKIBAT? Rantang Hijau: usaha karangan, angka ilustratif.\n\n#pitchdeck #umkm #bisnisumkm #tipsusaha",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/8e20bf92bc89cd21bbc86832888c8df299f57160/reels-17-nov-slide-masalah/final.mp4"
+   ],
+   "cover": {
+    "thumb_offset": 500
+   },
+   "qc": "V3 17 Nov 12.30 (Felix: naskah dan visual lebih masuk akal, narator profesional bercerita, isi tidak ke pinggir, audio lebih jernih). Naskah 8 baris: istilah 'slide masalah' dijelaskan (baris 2), 45 = jalan 15 + antre 20 + sisa 10 diucapkan dan digambar sebagai satu garis waktu yang terisi bertahap, payoff sebelum-sesudah di 76% durasi. Rantai teks: /gaya-ngomong-gaul, /copy-hangat-berlogika, /stop-slop. Suara Liam eleven_v4, arahan tenang-profesional per baris, rubberband x1,30. Audio: video/_bangun/mix_audio.py (EQ kejernihan, kompresi 3:1, SFX stereo + ducking, loudnorm), -14,6 LUFS, true peak -1,6 dBFS, LRA 3,2, limiter menyentuh 0,07% sampel. Visual tema D, margin tepi 150 px, isi di pita tengah. SFX 19 efek 5 jenis. Kartu skor: G1-G6 6/6 · 2b: payoff 76% LOLOS, dobel zona teks LOLOS, objek generik LOLOS, keterbacaan: teks kartu slide 52-62 px, baris 'sesudah' 40 px (catatan, slide buatan bukan slide asli) · S1-S10: S8 GAGAL hanya F2 durasi 29,7 dtk (B12.2 catatan, naskah diperjelas dan narator lebih tenang), lainnya LOLOS · cek-format 10/11. Lembar frame dilihat, teks utuh, tanpa tabrakan. Caption tidak berubah. Belum didengar Felix.",
+   "alasan_pilihan": "Slot Sel 17 Nov kosong, antrian repo 404. Naskah ditulis Manager laptop. Seri S-C karena Sen S-B dan Kam S-A (rotasi B13.4). Contoh usaha karangan baru (Rantang Hijau) supaya Geprek Lumbung tidak dipakai lagi."
+  },
+  {
+   "format": "reels",
+   "nama": "pembeli-baru",
+   "antrian_id": "",
+   "seri": "S-B",
+   "tema": "B",
+   "jam_tayang": "2026-11-16 19:30",
+   "status": "siap-unggah",
+   "judul": "Satu pembeli baru, biayanya berapa?",
+   "caption": "Iklan 1 juta sebulan, datang 50 pembeli baru. Berarti satu pembeli baru biayanya 20 ribu.\n\nKalau untung satu porsi 5 ribu, pembeli itu belum balik modal di kunjungan pertama. Karena itu investor dan calon mitra menanyakan dua angka bersamaan: biaya dapat satu pembeli, dan berapa kali pembeli datang lagi.\n\nPembeli geprek ini harus datang berapa kali supaya impas? Jawab angkanya di komentar.\n\nContoh di video dari Geprek Lumbung, usaha karangan untuk portofolio. Semua angka ilustratif.\n\nKirim ke teman yang lagi pasang iklan.\n\n#pitchdeck #umkm #franchise #proposalkemitraan #presentasi",
+   "caption_tiktok": "Pembeli baru harus datang berapa kali supaya impas? Jawab angkanya di komentar. Geprek Lumbung: usaha karangan, angka ilustratif.\n\n#pitchdeck #umkm #franchise #usahakecil",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/324569c60e00a7141e5249c30323d6f53d935e31/reels-16-nov-pembeli-baru/final.mp4"
+   ],
+   "cover": {
+    "thumb_offset": 500
+   },
+   "qc": "V3 16 Nov 18.20 (permintaan Felix: lebih rapi dan modern, tanpa getar/denyut kecil, SFX lebih menggoda; konsep dan naskah V2 dipertahankan). Getar elemen, denyut kamera 1,45 dtk, dan pulsa teks dibuang. Gaya baru: kartu kaca, eyebrow bab 01-07, garis progres, angka menghitung naik (50, 20 RIBU), kilau dan sapuan cahaya halus, dorongan kamera mulus, wipe kuning di tiap pergantian ditambah 5 wipe tengah-adegan. Suara Liam eleven_v4 tetap. SFX 24 efek, 5 jenis (hit, whoosh, pop, riser, ding), ±1 per 1,3 dtk. final.mp4 1080x1920 32,3 dtk. Loudness -14,9 LUFS, true peak -1,8 dBFS. ukur-retensi 6/6 (G1 1,10x). cek-format 8/11 (catatan: F2 durasi 32,3; V2 jeda ekor 1,3; V4 LRA 2,1). Lembar frame dilihat, teks utuh. Belum didengar Felix. V1 dan V2 di video/2026-11-16-biaya-pembeli-baru/arsip.",
+   "alasan_pilihan": "Naskah Manager cloud (produksi-2026-11-13, dijadwalkan Sel 17 Nov). Dimajukan ke Senin karena 'Cek ini sebelum kirim dek' kembar isi dengan carousel Sel 17 Nov 12.00 (2 dari 4 butir sama). Seri: Sab S-A, Sen S-B."
+  },
+  {
+   "format": "reels",
+   "nama": "pesaing",
+   "antrian_id": "",
+   "seri": "S-A",
+   "tema": "C",
+   "jam_tayang": "2026-11-14 19:30",
+   "status": "tayang",
+   "permalink": "https://www.instagram.com/reel/DftZwgTmdo-/",
+   "tayang_catatan": "Tayang 14 Nov 11.59 WIB (Windsor 15 Nov), caption v1 tanpa kalimat dek. Folder repo media dihapus 15 Nov.",
+   "judul": "Kami tidak punya pesaing",
+   "caption": "\"Kami tidak punya pesaing.\" Kalimat ini sering muncul di pitch deck.\n\nPembaca dek bisa menangkap dua hal: pasarnya belum ada, atau kamu belum cek. Padahal pesaing bukan cuma usaha sejenis. Pembeli geprek juga bisa pilih warung nasi sebelah, atau masak sendiri di rumah.\n\nTulis dua atau tiga pilihan yang dipakai pembeli sekarang, lalu satu alasan mereka pindah ke kamu. Di dek Geprek Lumbung, pilihan lain calon mitra adalah buka gerai sendiri. Alasan pindahnya: 18 bulan coba-salah yang tidak perlu diulang (angka ilustratif).\n\nPesaing terdekat usahamu yang mana? Tulis SEBELAH (usaha sejenis di dekatmu) atau RUMAH (pembeli bikin sendiri) di komentar.\n\nContoh di video dari Geprek Lumbung, usaha karangan untuk portofolio.\n\nKirim ke teman yang lagi menyusun dek.\n\n#pitchdeck #umkm #franchise #proposalkemitraan #presentasi",
+   "caption_tiktok": "\"Kami tidak punya pesaing\"? Pesaing terdekat usahamu SEBELAH atau RUMAH? Tulis di komentar. Geprek Lumbung di video: usaha karangan untuk portofolio.\n\n#pitchdeck #umkm #franchise #usahakecil",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/4540f48b30fde43140f589d16ef1c8c9236f1ced/reels-14-nov-pesaing/final-v2.mp4"
+   ],
+   "cover": {
+    "thumb_offset": 500
+   },
+   "qc": "v2 final-v2.mp4 1080x1920, 31,6 dtk. Adegan 14-25 dtk = slide 3 deck/contoh-geprek-lumbung/contoh-geprek-lumbung-v3.pptx (kolom 'Buka sendiri', judul '18 bulan coba-salah', kutipan persis, label karangan + angka ilustratif). VO Liam: 6 baris dipakai ulang dari v1, 1 baris baru 43 huruf. Hook frame 0, VO 0,10 dtk, true peak -1,8 dBTP, -14,5 LUFS, LRA 3,7. ukur-retensi 5/6 (G4 dua adegan >4,5 dtk dari video dasar), cek-format 10/11 (F2 durasi 31,6). Lembar frame dilihat: teks slide terbaca. Belum didengar Felix.",
+   "alasan_pilihan": "Perintah /manager lanjut A6 dari Manager cloud; naskah + caption persis dari claude/produksi-2026-11-14-pesaing.md. Dok rombak versi Project tidak ada di laptop, ditulis ulang laptop atas perintah Felix.",
+   "cadangan_v1": {
+    "urls": [
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/984dd9e2293ae81c83274f4903bde6c72c546ce6/reels-14-nov-pesaing/final.mp4"
+    ],
+    "catatan": "v1 disetujui Felix 14 Nov, caption lama (tanpa kalimat dek)."
+   },
+   "versi": "v2"
+  },
+  {
+   "format": "reels",
+   "nama": "kas-berapa-bulan",
+   "antrian_id": "",
+   "seri": "S-B",
+   "ganti_dari": "2026-11-12-reels-dokumen-salah",
+   "jam_tayang": "2026-11-13 19:30",
+   "status": "tayang",
+   "judul": "Kasmu cukup berapa bulan?",
+   "caption": "",
+   "urls": [
+    "https://www.instagram.com/reel/DfrjMv4Fby2/"
+   ],
+   "qc": "Tayang 13 Nov 18.43 WIB (Windsor 14 Nov 10.30). Folder repo media dihapus 14 Nov.",
+   "alasan_pilihan": "Pembersihan butir 5."
+  },
+  {
+   "format": "carousel",
+   "nama": "cek-proposal-mitra",
+   "antrian_id": "",
+   "seri": "S-D",
+   "jam_tayang": "2026-11-17 12:00",
+   "status": "tayang",
+   "permalink": "https://www.instagram.com/p/DfuJ9SJjTA0/",
+   "tayang_catatan": "Sudah tayang Sab 14 Nov 19.00 WIB (Windsor 15 Nov), lebih awal dari jadwal Sel 17 Nov. Slot carousel Sel 17 Nov 12.00 jadi kosong. Folder repo media dihapus 15 Nov.",
+   "judul": "Empat pertanyaan sebelum proposal kemitraan dikirim",
+   "caption": "Empat pertanyaan ini sebaiknya sudah terjawab sebelum proposal kemitraanmu dikirim.\n\nKamu kirim hari Senin, sampai Jumat belum dibalas, dan kamu tidak tahu pembacanya berhenti di halaman mana. Yang bisa kamu cek sendiri: angka naikmu dari berapa, uangnya dipakai untuk apa, mitramu dapat apa, dan risiko apa yang sudah kamu jaga.\n\nContoh di carousel ini aku buat sendiri untuk latihan, bukan dari usaha sungguhan. Semua angkanya ilustratif. Aku tidak bisa menjanjikan proposalmu diterima. Dengan daftar ini, pembacamu tidak perlu menebak.\n\nSimpan, lalu buka lagi saat proposalmu hampir jadi.\n\nDari empat ini, mana yang paling susah kamu tulis: 1, 2, 3, atau 4? Tulis di komentar.\n\n#proposalkemitraan #umkm #franchise #pitchdeck #proposalusaha",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/78ce191d152eee906c3698699810e8e2fa42828c/carousel-13-nov-cek-proposal/halaman-1.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/6237fd8cbc94667957fec7f761a7fa8dc9ef8525/carousel-13-nov-cek-proposal/halaman-2.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/bcf345edf6c8a4a578391680a2c884eed1c9bdfd/carousel-13-nov-cek-proposal/halaman-3.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/b96145634c471e9d0b4ba3aff4f1000ec44152da/carousel-13-nov-cek-proposal/halaman-4.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/119422ede35127301a9c787fb5826b15eb05909f/carousel-13-nov-cek-proposal/halaman-5.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/34eb99785f6ecae5adf817e14ede0631f80e5fc8/carousel-13-nov-cek-proposal/halaman-6.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/2b981d07070c9f89212158f827db143ba080aa69/carousel-13-nov-cek-proposal/halaman-7.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/01b827c68cc78eb3f35122d8a51cc8aa092a485f/carousel-13-nov-cek-proposal/halaman-8.jpg"
+   ],
+   "qc": "Dirender run 10.00 Jumat. Lembar kontak dilihat: teks utuh. Gerbang sinkron tayang tanpa BLOKIR. Pemicu komentar 1/2/3/4. MOFU, objektif simpan. | V2 14 Nov (permintaan Felix): dirombak Gaya angka pahlawan, palet D plum + peach, isi ditulis ulang (5 hari, 3 pos, 30%, 1 risiko, tes 4 pertanyaan), hero kode: amplop, kotak, perisai. cek_teks 0 KRITIS, nol peringatan kontras/zona aman/variasi. Lembar kontak dilihat, teks utuh. Empat hal di caption tetap sama. V1 di arsip/v1.",
+   "alasan_pilihan": "Stok carousel Selasa 17 Nov 12.00."
+  },
+  {
+   "format": "reels",
+   "nama": "dokumen-salah",
+   "jam_tayang": "",
+   "status": "terhambat",
+   "judul": "Jangan kirim dokumen yang salah",
+   "caption": "",
+   "urls": [],
+   "qc": "Tetap BLOKIR (mirip Reels 7 Nov) dan ditunda pilihan Felix 12 Nov. Tidak diproduksi.",
+   "alasan_pilihan": "Naskah Manager cloud 11 Nov (Ide 4B)."
+  },
+  {
+   "format": "dek",
+   "nama": "contoh-geprek-lumbung",
+   "antrian_id": "",
+   "status": "selesai",
+   "judul": "Contoh dek kemitraan Geprek Lumbung (usaha karangan untuk portofolio)",
+   "caption": "",
+   "urls": [],
+   "qc": "v3 arah B (P4 Kontras Kuning, tidak polos). 7 slide .pptx + PNG, susunan dirapikan: latar 1 gambar per slide, isi dikelompokkan dan bernama, 0 objek di luar slide. Dirender lewat PowerPoint dan dilihat. QC 3 putaran: ledger cocok, 0 KRITIS. Label karangan + ilustratif di tiap slide.",
+   "alasan_pilihan": "Perintah /manager lanjut A3. Felix minta opsi desain dengan contoh visual sebelum dek dirampungkan."
+  },
+  {
+   "format": "reels",
+   "nama": "slide-foto",
+   "antrian_id": "",
+   "seri": "S-A",
+   "tema": "C",
+   "jam_tayang": "2026-11-23 19:30",
+   "digeser": "Keputusan Felix 16 Nov (Q1): DIGESER ke minggu 23-28 Nov, JANGAN tayang Kam 19 Nov. Slot Kam 19 Nov = bio-usaha. Tanggal pasti ditetapkan Manager cloud.",
+   "status": "siap-unggah",
+   "judul": "Slide timmu cuma foto?",
+   "caption": "Slide tim yang isinya cuma foto, nama, dan jabatan belum menjawab pertanyaan pembaca dek: kenapa orang-orang ini bisa menjalankan rencananya?\n\nTambahkan satu baris bukti per orang yang terkait rencana. Misalnya: 6 tahun pegang dapur 200 porsi sehari. Atau: menyusun laporan kas bulanan sejak tahun pertama.\n\nSatu baris bukti lebih kuat dari tiga foto rapi.\n\nTimmu paling kuat di mana? Tulis DAPUR, JUAL, atau HITUNG di komentar.\n\nContoh di video dari Bakso Lereng, usaha karangan untuk portofolio. Semua angka ilustratif.\n\nKirim ke teman yang lagi menyusun dek.\n\n#pitchdeck #umkm #proposalkemitraan #franchise #presentasi",
+   "caption_tiktok": "Slide timmu cuma foto? Tambah satu baris bukti per orang. Timmu kuat di mana: DAPUR, JUAL, atau HITUNG? Bakso Lereng: usaha karangan, angka ilustratif.\n\n#pitchdeck #umkm #bisnisumkm #tipsusaha #presentasi",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/fd03606c7acab9c7b115287540e77e552c8b2b1a/reels-19-nov-slide-foto/final-v4.mp4"
+   ],
+   "cover": {
+    "thumb_offset": 500
+   },
+   "qc": "final.mp4 1080x1920, 31,5 dtk. Hook utuh frame 0, SFX hit 0,00, VO mulai 0,10 dtk, true peak -1,8 dBTP. ukur-retensi 6/6. cek-format 8/11 (catatan: F2 durasi 31,5; V2 jeda 1,33 dtk = ekor 1,3 dtk di akhir; V4 LRA 1,9). Lembar frame dilihat, teks utuh. Label Bakso Lereng karangan + angka ilustratif di layar. Gerbang sinkron tayang: tanpa BLOKIR. Suara: Liam (ElevenLabs lewat connector, suara bawaan 'Liam - Energetic, Social Media Creator'), model multilingual_v2, dipercepat ffmpeg x1,20 (resep v1 memakai speed 1,10 langsung). ejaan 'tim-mu' hanya di bahan suara. Felix menyetujui suara lewat dua file uji, belum mendengar versi lengkap.",
+   "alasan_pilihan": "Perintah /manager lanjut A6 dari Manager cloud (produksi-2026-11-19-stok), naskah ditempel Felix 14 Nov.",
+   "versi_baru": "final-v4.mp4",
+   "urls_v2": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/1ab79b80dbcd137e7bb44e7b8f52daee33d1d7f2/reels-19-nov-slide-foto/final-v2.mp4"
+   ],
+   "qc_v2": "Rombak 23 Nov selesai sebelum 19.10. 1080x1920, 30,2 dtk (ekor diam dibuang), hook utuh frame 0, bingkai jatuh 0,15 dtk, zoom punch 0,4 dtk, ALASAN kinetik, 'dek'->'deck', pemicu angka 18,6-20,35 dtk, pop SFX di 6 tahun/200 porsi/CABANG KEDUA, teks disinkronkan ke kata VO (selisih <=0,3 dtk), musik beat-pelan ~12 dB di bawah narator. -14,3 LUFS, TP -1,6 dBFS, freezedetect bersih, frame dilihat. VO/caption/label/niche tidak diubah. Belum didengar Felix.",
+   "urls_v3": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/50cf641df01ac1e9e38d1c35ed089d1259c7e89d/reels-19-nov-slide-foto/final-v3.mp4"
+   ],
+   "variabel_uji": "pemicu komentar angka di tengah video ('Tulis angkanya', det 18,75-20,45) + subtitle otomatis",
+   "hipotesis": "Pemicu angka di tengah mendapat >=1 komentar, dibanding 0 komentar di 5 Reels sebelumnya yang pemicunya pilihan kata.",
+   "qc_v3": "Rombak total v3 23 Nov menurut prosedur-manager-agent6-video + rekap evaluasi. Suara Liam SATU TARIKAN (API, resep 13 Nov, tanpa regang tempo, susun_vo_hd); naskah sama. 1080x1920 30fps 32,2 dtk (F2 durasi 22-28 = catatan: naskah dikunci, tidak ada regang tempo; wajib catatan, tidak menahan tayang). ukur-retensi 6/6 (G2 beku diperbaiki). cek-format 10/11. LUFS -14,4, TP -1,6, LRA 4,1. Adegan 14, semuanya <=4,5 dtk. Teks layar sinkron kata VO (<=0,3 dtk). Musik beat-pelan ~12 dB di bawah narator, belum didengar Felix. Label karangan 2 baris y~1330; margin teks >=90/110; frame dari file final dilihat; cek-tulisan-manusia KRITIS 0 (2 saran). Posisi tengah: titik berat 40-55% (peringatan tepi = blob latar).",
+   "urls_v4": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/fd03606c7acab9c7b115287540e77e552c8b2b1a/reels-19-nov-slide-foto/final-v4.mp4"
+   ],
+   "qc_v4": "v4 23 Nov atas permintaan Felix: hook lebih kuat (kata berdenyut serentak VO, garis penanda, bingkai foto jatuh, kaca pembesar, getar di 'foto?', ALASAN menghantam), ejaan bahan suara 'Slaid' (ganti 'Slide'), slide tim tiruan sebagai alat jelaskan (isi per orang, toko cabang 1->2, kotak bulan kas, timbangan 3 foto vs 1 baris bukti), subtitle otomatis dari alignment ElevenLabs (potongan <=3 kata, kata aktif menyala, y~1118). Suara Liam satu tarikan tanpa regang tempo. 1080x1920 32,2 dtk (F2 durasi = catatan). ukur-retensi 6/6, cek-format 10/11, LUFS -14,4, TP -1,6, LRA 4,4, freezedetect bersih, titik berat 43-54%. Frame dari file final dilihat. Lafal 'Slaid' dan musik belum didengar Felix.",
+   "urls_v1": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/324ff3ddd35908c94cbc3ebf73f457ee8cf6ee10/reels-19-nov-slide-foto/final.mp4"
+   ],
+   "ganti_dari": "final.mp4 (v1)",
+   "versi_dipilih": "final-v4.mp4 (dipilih Felix 23 Nov)"
+  },
+  {
+   "format": "reels",
+   "nama": "bedah-dana",
+   "antrian_id": "",
+   "seri": "S-C",
+   "tema": "D",
+   "jam_tayang": "2026-11-20 19:30",
+   "status": "siap-unggah",
+   "judul": "Minta 80 juta, buat apa?",
+   "caption": "\"Butuh dana 80 juta untuk pengembangan usaha.\" Kalimat ini sering muncul di slide kebutuhan dana. Kita bedah tiga lubangnya.\n\n1. \"Pengembangan\" tidak bisa dicek. Rinci per pos: mesin 45 juta, renovasi 20 juta, kas tiga bulan 15 juta.\n2. Tidak ada hasil yang dituju. Tulis apa yang berubah: kapasitas 60 jadi 150 kilo sehari.\n3. Tidak ada kapan. Tambahkan urutan: mesin bulan 1, renovasi bulan 2, buka bulan 3.\n\nDari tiga ini, dekmu kurang yang mana? Tulis 1, 2, atau 3 di komentar.\n\nMau slide kebutuhan danamu dibedah? Kirim DM \"BEDAH\".\n\nContoh di video dari Laundry Sigap, usaha karangan untuk portofolio. Semua angka ilustratif.\n\n#pitchdeck #umkm #proposalkemitraan #proposalusaha #presentasi",
+   "caption_tiktok": "Minta 80 juta, buat apa? Tiga lubang di slide kebutuhan dana. Dekmu kurang yang mana: 1, 2, atau 3? Laundry Sigap: usaha karangan, angka ilustratif.\n\n#pitchdeck #umkm #bisnisumkm #tipsusaha #presentasi",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/add3a9bf591712851758202520082367cb7a0b21/reels-20-nov-bedah-dana/final-v4.mp4"
+   ],
+   "cover": {
+    "thumb_offset": 500
+   },
+   "qc": "final-v4.mp4 1080x1920 30 fps, 44,7 dtk (catatan: >28, VO Liam tempo asli). Koreksi Felix: tanpa ganti warna latar; hook dengan 3 penanda misteri + peta mini yang mencentang lubang; bagian 'dari tiga temuan ini' jadi satu adegan mengalir: ringkasan 1 rinci per pos / 2 hasil yang dituju / 3 urutan kapan, baris menyala saat diucapkan; musik latar baru 'penasaran' (100 BPM, buatan kode) ±12 dB di bawah narator. Naskah VO tidak diubah. Hook utuh frame 0, VO 0,10 dtk, SFX hit 0,00. -14,3 LUFS, TP -1,6, LRA 3,0. ukur-retensi 5/6 (G4 adegan ringkasan 7,8 dtk = catatan B12.2, sengaja tanpa potongan), freezedetect 0, cek-format 10/11 (F2 durasi), cek-posisi-tengah 15 frame 0 peringatan, cek-overlap tanpa blokir, cek-tulisan-manusia VO+caption KRITIS 0. Label karangan + angka ilustratif tiap adegan; 45+20+15=80. Lembar frame dilihat. Belum didengar Felix.",
+   "alasan_pilihan": "Perintah /manager lanjut A6 dari Manager cloud (produksi-2026-11-19-stok). BOFU didahului MOFU Sen 16 Nov.",
+   "ganti_dari": "f9bb31a",
+   "versi": "v4 (koreksi Felix 20 Nov: bagian 'dari tiga temuan ini')"
+  },
+  {
+   "format": "reels",
+   "nama": "dikasih-modal",
+   "antrian_id": "",
+   "seri": "S-B",
+   "tema": "B",
+   "jam_tayang": "2026-11-21 19:30",
+   "status": "tayang",
+   "judul": "Dikasih modal, kamu kasih apa?",
+   "caption": "Calon pemodal hampir selalu bertanya: kalau saya kasih modal, saya dapat apa?\n\nAda tiga bentuk yang sering dipakai. Saham: pemodal ikut memiliki sebagian usaha, untung dan rugi ditanggung bersama. Pinjaman: uang dikembalikan sesuai jadwal, usaha tetap milikmu penuh. Bagi hasil: pemodal dapat persen dari hasil usaha untuk jangka waktu tertentu.\n\nDi dek, tulis kamu menawarkan yang mana. Tanpa itu, pembaca harus menebak.\n\nKalau kamu cari modal, kamu condong ke mana? Tulis SAHAM, PINJAM, atau BAGI di komentar.\n\nContoh di video dari Bakso Lereng, usaha karangan untuk portofolio. Angka ilustratif. Ini penjelasan istilah, bukan saran keuangan.\n\nKirim ke teman yang lagi cari modal.\n\n#pitchdeck #umkm #modalusaha #proposalkemitraan #presentasi",
+   "caption_tiktok": "Dikasih modal, kamu kasih apa? Saham, pinjaman, atau bagi hasil. Kamu condong ke mana: SAHAM, PINJAM, atau BAGI? Usaha karangan, bukan saran keuangan.\n\n#pitchdeck #umkm #bisnisumkm #tipsusaha #presentasi",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/5d3f3cc5826781572a0ac8cfc75de25824bbd417/reels-21-nov-dikasih-modal/final-v6.mp4"
+   ],
+   "cover": {
+    "thumb_offset": 500
+   },
+   "qc": "final.mp4 1080x1920, 31,5 dtk. Hook utuh frame 0, SFX hit 0,00, VO 0,10 dtk, true peak -1,9 dBTP. ukur-retensi 6/6. cek-format 8/11 (catatan: F2 durasi 31,5; V2 jeda 1,29; V4 LRA 1,5). Lembar frame dilihat. Penjelasan istilah tanpa angka bunga dan tanpa rekomendasi; label 'bukan saran keuangan' di layar. Gerbang sinkron tayang: tanpa BLOKIR. Suara: Liam (ElevenLabs lewat connector, suara bawaan 'Liam - Energetic, Social Media Creator'), model multilingual_v2, dipercepat ffmpeg x1,20 (resep v1 memakai speed 1,10 langsung). ejaan 'tim-mu' hanya di bahan suara. Felix menyetujui suara lewat dua file uji, belum mendengar versi lengkap. | v2 visual 21 Nov (rombak): final-v2.mp4 lokal, Arah 1 Malam Tiga Jalur, menunggu pilihan Felix. Audio sama dengan v1. ukur-retensi 5/6 (G4 catatan), posisi tengah 0 peringatan, frame dilihat. Durasi 31,4 dtk. Belum diunggah ke repo; final.mp4 tetap yang di URL. | v3 21 Nov: final-v3.mp4 lokal, Arah 1 dipilih Felix, ukur-retensi 6/6, posisi tengah ok. Audio v1. Belum diunggah. | v4 21 Nov: final-v4.mp4 lokal, musik beat-pelan + animasi contoh, ukur-retensi 6/6, posisi tengah ok, -14,3 LUFS TP -1,6. Belum didengar Felix, belum diunggah. | v5 21 Nov: final-v5.mp4 lokal, hook lebih kuat (G1 1,48x), SFX bernada lembut, ukur-retensi 6/6, -14,3 LUFS TP -1,6. Belum didengar Felix, belum diunggah. | v6 21 Nov: final-v6.mp4 lokal, subtitle bergaya dari transkrip whisper (74 kata, perlu dicocokkan dengan naskah), ukur-retensi 6/6, posisi tengah ok. Belum diunggah. | v6 URL publik lolos (raw dan jsdelivr). Menunggu Felix mengetik unggah di chat Manager cloud setelah melihat caption persis.",
+   "alasan_pilihan": "Perintah /manager lanjut A6 dari Manager cloud (produksi-2026-11-19-stok).",
+   "cadangan_v1": {
+    "urls": [
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/24df026cdb18dc7d0e8c7d3ddb856afaff26639f/reels-21-nov-dikasih-modal/final.mp4"
+    ],
+    "catatan": "final.mp4 versi awal (sebelum rombak v6)"
+   },
+   "versi": "v6",
+   "media_id": "18112490840244383",
+   "tayang_catatan": "Diunggah 21 Nov malam lewat Windsor create_video_post atas perintah Felix (Unggah sekarang), final-v6.mp4, caption persis dari status, cover thumb_offset 500. Slot 19.30 sudah lewat; sinkron dengan versi awal tidak diverifikasi (Windsor dijeda). Permalink belum diambil. Folder repo media belum dihapus."
+  },
+  {
+   "format": "carousel",
+   "nama": "kamus-investor",
+   "antrian_id": "",
+   "seri": "S-B",
+   "jam_tayang": "",
+   "status": "batal",
+   "judul": "Kamus investor versi warung",
+   "caption": "Enam istilah yang sering ditanyakan calon mitra atau pemodal, masing-masing dengan satu angka contoh.\n\nTitik impas: modal awal 6 juta ÷ untung 6 ribu per porsi = 1.000 porsi.\nOmzet dan sisa: uang masuk beda dengan yang tertinggal setelah semua biaya.\nPersen beli: 200 orang bertanya, 40 membeli = 20%.\nMargin: jual 25 ribu, modal 15 ribu, untung 10 ribu = 40%.\nBiaya tetap: sewa 3 juta tiap bulan, laku atau tidak.\nBiaya berubah: bahan 150 ribu untuk 10 porsi, 1,5 juta untuk 100 porsi.\n\nSimpan, buka lagi saat menyusun deck.\n\nIstilah mana yang paling bikin kamu bingung? Tulis nomor halamannya di komentar.\n\nSemua angka ilustratif. Ini penjelasan istilah, bukan saran keuangan.\n\n#pitchdeck #umkm #istilahbisnis #proposalkemitraan #presentasi",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/08566af99beb2db229a8274760d738940b16a26c/carousel-24-nov-kamus-investor/halaman-1.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/f779e53fefdd249e82abb6b4a24609f78413583c/carousel-24-nov-kamus-investor/halaman-2.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/97e2054bfacc7d6e81c655e25d75b477ba7608d8/carousel-24-nov-kamus-investor/halaman-3.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/47dd904d75955a3b50f9c70d261d37e3f19016c4/carousel-24-nov-kamus-investor/halaman-4.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/2dc081187fdc23705ce0bce903474cfe72d92065/carousel-24-nov-kamus-investor/halaman-5.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/7e19670b002308d5dc1bc3409b152c06217a16d0/carousel-24-nov-kamus-investor/halaman-6.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/a9e1b4387377c3914365b265050f011a940d0cb8/carousel-24-nov-kamus-investor/halaman-7.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/aceff32d5fe37479af256b199bd21d1580524a3e/carousel-24-nov-kamus-investor/halaman-8.jpg"
+   ],
+   "qc": "21 Nov: 8 JPG diunggah ke repo media carousel-24-nov-kamus-investor, semua URL lolos (semua_lolos true). Caption final = opsi 1. 21 Nov: ejaan 'dek' diganti 'deck' di slide 8 dan 3 opsi caption (permintaan Felix). 21 Nov: teks terpotong diperbaiki (bagian bawah huruf j, p, g pada angka besar slide 2 dan 6 terpotong oleh efek gradien; builder diberi ruang bawah). Lembar kontak dilihat ulang, semua teks utuh. 21 Nov rombak slide 2-7 atas pilihan Felix. cek-tulisan-manusia 3 opsi caption KRITIS 0. 21 Nov rombak slide 2/4/5 atas pilihan Felix. 21 Nov: gerbang BLOKIR (lihat gerbang). 3 opsi caption: cek-tulisan-manusia KRITIS 0. TIDAK DIUNGGAH. V2 dirombak 14 Nov atas permintaan Felix: Gaya 3 'angka jadi pahlawan', palet B krem + merah bata (preset nestly + warna kustom), isi baru (angka contoh baru: runway 3 bulan, 10 juta vs 2 juta, 20 rb, 120 pesanan). 8 halaman JPG 1080x1350. cek_teks_carousel: 0 KRITIS setelah 3 putaran (hapus 'Rp', judul slide 7 jadi 9 kata, kata 'kamu' ditambah); saran: slide 8 tanpa kata kunci DM (MOFU, objektif simpan). Builder: nol peringatan kontras, zona aman, variasi (7 layout). Lembar kontak dilihat: teks utuh. cek-overlap BELUM dijalankan ulang untuk isi baru (butuh tarik ulang posting Instagram lewat Windsor). V1 diarsipkan di carousel/2026-11-20-kamus-investor/arsip/v1. | V2b 14 Nov: ditambah 4 hero objek gambar kode (buku kamus, tumpukan koin, megafon, papan centang; PNG transparan di carousel/2026-11-20-kamus-investor/hero/) di kanan-bawah, ukuran diperkecil agar tidak menutup teks; slide 5 memakai angka outline 120 sebagai hero. Lembar kontak dilihat ulang: teks utuh.",
+   "alasan_pilihan": "Perintah /manager lanjut A1 cek (21 Nov): slot dipindah ke Sel 24 Nov 12.00.",
+   "gerbang": {
+    "hasil": "AMAN (6 istilah baru, di luar bentrok Reels 12, 13, 16, 20, 21 Nov)",
+    "dicek": "2026-11-21",
+    "alasan": "Isi inti sudah tayang di Reels: slide 4 (1 juta / 50 pembeli = 20 ribu) sama persis dengan Reels 16 Nov; slide 2 (runway = kas dibagi pengeluaran sebulan) sama dengan Reels 13 Nov; slide 5 (traksi) sama dengan Reels 12 Nov. Slide 6 (rincian dana) dekat Reels 20 Nov, slide 7 (saham/pinjaman/bagi hasil) sama dengan Reels dikasih-modal 21 Nov (belum tayang). Menurunkan BLOKIR hanya keputusan Felix (gerbang sinkron 6b). Data: Windsor dijeda (2 akun, paket Free), dipakai daftar tayang 20 Nov 18.00; Reels 21 Nov belum terverifikasi. cek-overlap otomatis: tanpa blokir (pencocok kata tidak menangkap angka sama).",
+    "visual": "8 halaman dilihat. Temuan tata letak: kata hantu (angka outline) di belakang teks kartu di slide 2, 4, 6 (paling parah slide 4); baris judul slide 4 dan 7 terlalu rapat; slide 1 kalimat bawah hampir menyentuh buku; cincin dekor menyentuh label KAMUS INVESTOR di slide 2 dan 7. Perlu diperbaiki sebelum diserahkan. Nol kata terlarang, label ilustratif dan bukan saran keuangan ada.",
+    "catatan_rombak": "21 Nov: slide 2-7 sekarang titik impas, omzet dan sisa, persen beli, margin, biaya tetap, biaya berubah. Builder 0 KRITIS, nol peringatan, cek-overlap tanpa blokir, 8 halaman dilihat. Sisa: Windsor dijeda, daftar tayang dasar 20 Nov 18.00 (Reels 21 Nov belum terverifikasi; isinya tidak beririsan). URL repo media belum diperbarui, belum diunggah."
+   },
+   "caption_opsi": [
+    "Enam istilah yang sering ditanyakan calon mitra atau pemodal, masing-masing dengan satu angka contoh.\n\nTitik impas: modal awal 6 juta ÷ untung 6 ribu per porsi = 1.000 porsi.\nOmzet dan sisa: uang masuk beda dengan yang tertinggal setelah semua biaya.\nPersen beli: 200 orang bertanya, 40 membeli = 20%.\nMargin: jual 25 ribu, modal 15 ribu, untung 10 ribu = 40%.\nBiaya tetap: sewa 3 juta tiap bulan, laku atau tidak.\nBiaya berubah: bahan 150 ribu untuk 10 porsi, 1,5 juta untuk 100 porsi.\n\nSimpan, buka lagi saat menyusun deck.\n\nIstilah mana yang paling bikin kamu bingung? Tulis nomor halamannya di komentar.\n\nSemua angka ilustratif. Ini penjelasan istilah, bukan saran keuangan.\n\n#pitchdeck #umkm #istilahbisnis #proposalkemitraan #presentasi",
+    "Istilah investor terdengar rumit, padahal enam di carousel ini cuma pembagian dan pertanyaan sederhana. Tiap istilah ada satu angka contoh.\n\nKalau calon mitra bertanya soal titik impas, margin, atau biaya tetap, kamu sudah punya jawabannya di deck.\n\nSimpan, buka lagi saat menyusun deck.\n\nDari enam istilah ini, mana yang belum kamu tulis di deckmu? Tulis nomor halamannya di komentar.\n\nSemua angka ilustratif. Ini penjelasan istilah, bukan saran keuangan.\n\n#pitchdeck #umkm #istilahbisnis #proposalkemitraan #presentasi",
+    "Kamus investor versi warung: enam istilah, satu angka contoh tiap istilah, tanpa kata yang bikin pusing.\n\nGeser sampai halaman 8, lalu simpan buat dibuka saat menyusun deck.\n\nIstilah mana yang paling bikin kamu bingung? Tulis nomor halamannya di komentar.\n\nSemua angka ilustratif. Ini penjelasan istilah, bukan saran keuangan.\n\n#pitchdeck #umkm #istilahbisnis #proposalkemitraan #presentasi"
+   ],
+   "copy": "opsi 1 (rekomendasi) dipakai karena Felix mengetik 'unggah' tanpa memilih; Felix boleh minta opsi 2 atau 3 sebelum tayang",
+   "batal_catatan": "Dibatalkan Felix 23 Nov. Slot Sel 24 Nov 12.00 diganti carousel calon-mitra. Jangan diunggah."
+  },
+  {
+   "format": "carousel",
+   "nama": "grafik-sumbu",
+   "antrian_id": "",
+   "seri": "S-D",
+   "jam_tayang": "2026-11-17 12:00",
+   "status": "siap-unggah",
+   "judul": "Grafik naik 4 persen, kenapa terlihat naik tiga kali?",
+   "caption": "Grafik penjualanmu naik 4 persen, tapi di slide terlihat naik tiga kali lipat? Itu bisa terjadi kalau sumbunya tidak mulai dari nol.\n\nContoh di carousel ini: penjualan 100 porsi jadi 104 porsi. Dengan sumbu mulai dari 98, batang kedua terlihat tiga kali lebih tinggi. Dengan sumbu dari 0, selisihnya tampak sebesar aslinya, 4 persen. Pembaca dek yang menghitung sendiri akan menemukan bedanya.\n\nMulai batang dari nol, dan tulis angka aslinya di atas batang.\n\nSimpan, lalu cek grafik di dekmu sebelum dikirim.\n\nGrafikmu paling bermasalah di nomor berapa: 1, 2, 3, atau 4? Tulis di komentar.\n\nSemua angka di carousel ini ilustratif.\n\n#pitchdeck #umkm #proposalkemitraan #presentasi #datadek",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/ee483840de0590d4c12798c181d903bf59ca0af5/carousel-17-nov-grafik-sumbu/halaman-1.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/502b94692645e4c38e56625f63b6bd004ad83801/carousel-17-nov-grafik-sumbu/halaman-2.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/c6cf5fe54d109cc50b8c9475780f792430eaec53/carousel-17-nov-grafik-sumbu/halaman-3.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/6f16eb5f9830e17709177014fbafe51a631c954a/carousel-17-nov-grafik-sumbu/halaman-4.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/adf52e2e4772a06b46df09bbc858946ae19f436f/carousel-17-nov-grafik-sumbu/halaman-5.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/e466d74fdaac8f53db990212ecfa6b9c56e9bb4b/carousel-17-nov-grafik-sumbu/halaman-6.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/5884c768eb52e1064f12145e51c3e4cc3c205128/carousel-17-nov-grafik-sumbu/halaman-7.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/bd1ae1c6c944dcc429c14785c2edd91562f62a1a/carousel-17-nov-grafik-sumbu/halaman-8.jpg"
+   ],
+   "qc": "V2 rombak 17 Nov (P1-P6 disusun Manager laptop atas pilihan Felix; dok Project tidak ada di laptop): grafik batang/garis sungguhan dari angka yang sama (100, 104, sumbu 98/0) di slide 1-6, kata hantu tertimpa kartu dibuang (slide 2, 5, 6), margin kanan >= 110 px. Caption, angka, urutan, palet tidak berubah. cek_teks_carousel 0 KRITIS (2 saran tetap); cek-tulisan-manusia 0 tell; builder nol peringatan (zona aman, tumpang tindih, kontras, variasi); 8 JPG 1080x1350; lembar kontak dan tiap halaman dilihat. V1 disimpan di jadi-v1/. Belum dilihat Felix.",
+   "alasan_pilihan": "Slot Sel 17 Nov 12.00 kosong (carousel cek-proposal-mitra tayang lebih awal 14 Nov), antrian repo 404. Naskah ditulis Manager laptop. Seri S-D MOFU: Sen S-B, Sel Reels S-C, Kam S-A, Jum S-C, Sab S-B; carousel S-D melengkapi rotasi minggu ini (B13.4 butir 5)."
+  },
+  {
+   "format": "reels",
+   "nama": "slide-penutup",
+   "antrian_id": "",
+   "seri": "S-A",
+   "audiens": "umkm",
+   "tema": "A",
+   "jam_tayang": "2026-11-25 19:30",
+   "status": "siap-unggah",
+   "judul": "Slide terakhirmu cuma terima kasih?",
+   "caption": "7 hari, 0 balasan. Slide terakhirmu cuma \"Terima kasih\"? Pembacanya sampai di halaman itu, lalu bingung harus ngapain.\n\nContoh di video: Kopi Lereng Ranu, penjual biji kopi, kirim presentasi ke pemilik kafe. Halaman terakhirnya cuma terima kasih dan logo.\n\nGanti dengan tiga hal:\n1. Apa yang kamu minta. Contoh: coba kopi kami dua minggu.\n2. Cara mulai yang gampang. Contoh: balas pesan ini, satu bungkus kami kirim.\n3. Siapa yang bisa dihubungi: nama dan nomor WA.\n\nTerima kasihnya tetap boleh, cukup kecil di bawah.\n\nPresentasi terakhirmu sudah berapa hari belum dibalas? Tulis angkanya di komentar.\n\nKopi Lereng Ranu: usaha karangan untuk portofolio. Isi slide dan chat ilustratif.\n\nSimpan, cek lagi sebelum presentasimu dikirim.\n\n#pitchdeck #umkm #proposalkemitraan #proposalusaha #presentasi",
+   "caption_tiktok": "7 hari, 0 balasan. Slide terakhirmu cuma terima kasih? Ganti 3 hal. Presentasimu sudah berapa hari belum dibalas? Tulis angkanya. Usaha karangan.\n\n#pitchdeck #umkm #presentasi #tipsusaha",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-referensi/e8ca14a117d092bc641b0f72f8b00b2d4b5af58a/reels-25-nov-slide-penutup/final-v5.mp4"
+   ],
+   "cover": {
+    "thumb_offset": 0
+   },
+   "qc": "V5 F2 (rombak revisi 2, 25 Nov): 1080x1920 30 fps 26,0 dtk · tanpa VO, musik beat-pelan + 22 SFX · -14,0 LUFS TP -3,0 LRA 2,2 · freezedetect 0 · balasan pertama muncul 17,15 dtk · pemicu 11,6 dan 23,0 dtk · kartu penutup 23,0-25,6 (2,6 dtk) · frame akhir vs frame 0 selisih rata-rata 4,8/255 · label + \"ilustratif\" tampil 0-26 dtk · cek-posisi-tengah titik berat 42-55%, 11/12 lolos (17,8 dtk 26% di luar pita tengah, selisih 1 poin = catatan) · 12 frame dari final-v5.mp4 dilihat · cek-tulisan-manusia caption KRITIS 0, caption_tiktok 145 karakter KRITIS 0",
+   "alasan_pilihan": "Perintah /manager lanjut A6 dari Felix (S-A, tema A, musik hangat). Berkas produksi versi Project tidak ada di laptop; Felix memutuskan produksi dari nol di laptop sesuai prosedur: naskah ditulis di claude/produksi-2026-11-25-slide-penutup.md lewat rantai gaya-ngomong-gaul, copy-hangat-berlogika, stop-slop. Kopi Lereng Ranu = usaha karangan untuk portofolio. Musik hangat: topik ringan + ajakan, trek terakhir penasaran.",
+   "versi": "v5",
+   "ganti_dari": "d45db05",
+   "versi_baru": "final-v5.mp4",
+   "format_kerangka": "F2",
+   "format_reels": "F2 Coba ulang",
+   "versi_lama": "final-v4.mp4 (tetap berlaku bila v5 tidak dipilih)",
+   "elemen": "hook angka dua tahap, penghitung HARI/BALASAN dari frame 0, tiga kotak kosong 8-17 dtk, rewind 6,5-8, pembalikan chat 17-20,8, kalimat balik 20,8-23, pemicu \"tulis angkanya\" x2 (11,6 dan 23), kartu penutup 2,6 dtk, loop ke frame 0",
+   "catatan_hipotesis": "IG skip 3 dtk < 55% (baseline 64,4%); TikTok tersisa detik 3 > 50% (baseline 42%); tonton rata-rata >= 70% durasi; komentar >= 1. Semua elemen sekaligus: penyebab belum bisa dipisah."
+  },
+  {
+   "format": "paket",
+   "nama": "produk-build-up-master-deck",
+   "antrian_id": "",
+   "seri": "S-C",
+   "audiens": "umkm",
+   "status": "selesai",
+   "judul": "Bahan ada. Deck-nya belum jadi?",
+   "caption": "",
+   "urls": [],
+   "qc": "Materi produk Lynk.id, bukan konten Instagram: 5 JPG 1080x1080 lokal di paket/build-up-master-deck-umum/, tidak diunggah. Cek-tabrakan 0, cek-tulisan lolos, lembar kontak dilihat.",
+   "alasan_pilihan": "Felix 21 Nov: tujuan mockup demonstrasi produk di Lynk.id, 5 slide, bukan konten organik IG.",
+   "jam_tayang": ""
+  }
+ ],
+ "agen_hari_ini": [
+  {
+   "agent": "A6",
+   "tugas": "rombak total video slide-foto v3",
+   "bukti": "video/2026-11-23-slide-foto/final-v3.mp4",
+   "status": "selesai"
+  },
+  {
+   "agent": "A1",
+   "tugas": "Rombak carousel produk Build Up Your Master Deck: slide 3-5 dan thumbnail Lynk.id memakai mockup potongan slide asli (gaya A). Versi umum di-push, versi satu-lawan-satu (slide 7 memuat harga) hanya lokal.",
+   "bukti": "paket/build-up-master-deck-umum/lembar-kontak.jpg",
+   "status": "selesai"
+  },
+  {
+   "agent": "A5",
+   "tugas": "Alat verifikasi email dibagikan ke cloud: skrip, README, ambang hasil (6 status), cara pakai /verifikasi-email, dan batas harian disalin ke folder dokumen-manager-verifikasi-email/ di repo fast4project-media, tanpa alamat, kunci, .env, atau daftar prospek. Satu commit, grep kunci/email kosong. Dikirim lewat API GitHub karena git tidak terpasang di laptop.",
+   "bukti": "dokumen-manager-verifikasi-email/ @ f269cb8b46c9ff3e59b16a8ecbe9968cc38de14d",
+   "status": "selesai"
+  },
+  {
+   "agent": "A1",
+   "tugas": "Cek carousel kamus-investor untuk Sel 24 Nov 12.00: 8 halaman dilihat, gerbang BLOKIR, 3 opsi caption ditulis. Tidak diunggah.",
+   "bukti": "carousel/2026-11-20-kamus-investor/jadi/lembar-kontak.jpg",
+   "status": "selesai"
+  },
+  {
+   "agent": "A5",
+   "tugas": "Verifikasi 4 alamat antrian outreach (perintah Manager cloud 21 Nov): 4 dicek, mx-saja, KIRIM 0 / TANYA 4 / BUANG 0. Reacher mati dan port 25 tertutup. Tidak ada email dikirim.",
+   "bukti": "outreach/hasil-verifikasi-2026-11-21.csv",
+   "status": "selesai"
+  },
+  {
+   "agent": "Manager",
+   "tugas": "Aturan baru B18.23 gerbang opsi copy untuk semua agent: evaluasi copywriting 5 langkah lalu 2-3 opsi contoh penulisan sebelum membangun; mode otomatis memakai rekomendasi sementara dan konfirmasi di gerbang unggah. Rekap proses + contoh sebelum/sesudah ditulis.",
+   "bukti": "claude/prosedur-copywriting-semua-agent.md",
+   "status": "selesai"
+  },
+  {
+   "agent": "A4",
+   "tugas": "Teks pilihan desain v3 ditulis ulang dengan standar copywriting (hook <=6 kata + subjudul, judul kesimpulan, kata kerja di depan) + /stop-slop; lembar jadi milik calon pemesan (balas A/B/C). Lembar aplikasi dihentikan dan diarsipkan atas arahan Felix. QC 6 slide 0 KRITIS, cek-tulisan-manusia 0 KRITIS, 0,49 MB.",
+   "bukti": "deck/_pilihan-desain/pilihan-desain-v3.png",
+   "status": "selesai"
+  },
+  {
+   "agent": "A4",
+   "tugas": "Pilihan desain v3: tiga perpaduan baru (Navy Emas Seleksi, Bata Krem Kaca, Ungu Pion Terang) dari palet terkunci + karakter carousel + referensi gaya; 2 slide per gaya + dek aplikasi (V3-C rekomendasi). QC 12 slide 0 KRITIS, cek-tulisan-manusia lolos, 0,50 MB dan 0,39 MB. Disetujui Felix: v3 jadi berkas aktif, v2 diarsipkan.",
+   "bukti": "deck/_pilihan-desain/pilihan-desain-v3.png",
+   "status": "selesai"
+  },
+  {
+   "agent": "A4",
+   "tugas": "Rombak pilihan desain v2: P1-P5 dua slide jadi bergaya tidak polos per palet + lembar dek aplikasi (P5 Rek., P3, P4). QC tata letak + kontras 16 slide: 0 KRITIS; cek-tulisan-manusia lolos; 0,78 MB dan 0,46 MB. Berkas aktif diganti ke v2 atas persetujuan Felix, versi 17 Nov diarsipkan. Tidak ada email dikirim.",
+   "bukti": "deck/_pilihan-desain/pilihan-desain-v2.png",
+   "status": "selesai"
+  },
+  {
+   "agent": "A1",
+   "tugas": "Rombak carousel tiga-posting Jum 20 Nov: 3 arah desain, Felix pilih C Grid Gelap Emas, 8 slide dibangun dan di-push",
+   "bukti": "carousel/2026-11-20-tiga-posting/jadi/lembar-kontak.jpg",
+   "status": "dikerjakan"
+  },
+  {
+   "agent": "A6",
+   "tugas": "rombak total video slide-foto v3",
+   "bukti": "video/2026-11-23-slide-foto/final-v3.mp4",
+   "status": "selesai"
+  },
+  {
+   "agent": "A1",
+   "tugas": "Rombak carousel grafik-sumbu P1-P6 (grafik sungguhan, buang kata hantu), 8 JPG baru di repo media",
+   "bukti": "carousel/2026-11-17-grafik-sumbu/jadi/lembar-kontak.jpg",
+   "status": "selesai"
+  },
+  {
+   "agent": "A6",
+   "tugas": "rombak total video slide-foto v3",
+   "bukti": "video/2026-11-23-slide-foto/final-v3.mp4",
+   "status": "terhambat"
+  },
+  {
+   "agent": "A6",
+   "tugas": "rombak total video slide-foto v3",
+   "bukti": "video/2026-11-23-slide-foto/final-v3.mp4",
+   "status": "terhambat"
+  },
+  {
+   "agent": "A1",
+   "tugas": "Antrian cloud tidak terambil (SSL certificate verify failed); Reels Sen 16 'pembeli-baru' tetap siap-unggah untuk 19.30",
+   "bukti": "",
+   "status": "terhambat"
+  },
+  {
+   "agent": "A1",
+   "tugas": "(15 Nov) Tarik 13 posting Instagram (Windsor, 17 Okt-15 Nov) untuk gerbang sinkron tayang + pembersihan: Reels pesaing dan carousel cek-proposal-mitra ditandai tayang",
+   "bukti": "laporan/2026-11-15-tayang.json",
+   "status": "selesai"
+  },
+  {
+   "agent": "A1",
+   "tugas": "Run 15.00: carousel Sel 17 Nov 12.00 'grafik-sumbu' (S-D) dibuat, dirender, dilihat, URL siap",
+   "bukti": "carousel/2026-11-17-grafik-sumbu/jadi/lembar-kontak.jpg",
+   "status": "selesai"
+  },
+  {
+   "agent": "A6",
+   "tugas": "rombak total video slide-foto v3",
+   "bukti": "video/2026-11-23-slide-foto/final-v3.mp4",
+   "status": "selesai"
+  },
+  {
+   "agent": "A4",
+   "tugas": "Verifikasi email antrian siap dikirim: 4 dicek, cek MX saja (Reacher belum terpasang)",
+   "bukti": "claude/outreach-antrian.md",
+   "status": "selesai"
+  },
+  {
+   "agent": "A2",
+   "tugas": "Tidak ada pesan masuk yang terbaca di laptop (Gmail dan DM disapu Manager cloud)",
+   "bukti": "",
+   "status": "terhambat"
+  },
+  {
+   "agent": "A3",
+   "tugas": "Tidak ada perintah atau brief; Rabu 18 Nov contoh dek sektor minggu ini",
+   "bukti": "",
+   "status": "terhambat"
+  },
+  {
+   "agent": "A5",
+   "tugas": "Tidak ada perintah; Rabu 18 Nov 15.00 carousel portofolio",
+   "bukti": "",
+   "status": "terhambat"
+  },
+  {
+   "agent": "A6",
+   "tugas": "rombak total video slide-foto v3",
+   "bukti": "video/2026-11-23-slide-foto/final-v3.mp4",
+   "status": "selesai"
+  },
+  {
+   "agent": "A6",
+   "tugas": "rombak total video slide-foto v3",
+   "bukti": "video/2026-11-23-slide-foto/final-v3.mp4",
+   "status": "selesai"
+  },
+  {
+   "agent": "A6",
+   "tugas": "carousel calon-mitra Sel 24 Nov 12.00",
+   "bukti": "carousel/2026-11-24-calon-mitra/jadi/lembar-kontak.jpg",
+   "status": "selesai"
+  },
+  {
+   "agent": "A6",
+   "tugas": "rombak video slide-penutup v5 format F2 Coba ulang",
+   "bukti": "video/2026-11-25-slide-penutup/final-v5.mp4",
+   "status": "selesai"
+  }
+ ],
+ "verifikasi": {
+  "tanggal": "2026-11-21",
+  "dicek": 4,
+  "kirim": 0,
+  "tanya": 3,
+  "buang": 1,
+  "mesin": "mx-saja (sintaks + MX lolos; Reacher tidak hidup, port 25 tertutup)",
+  "per_alamat": [
+   {
+    "urutan": 1,
+    "status": "mx-saja",
+    "tindakan": "TANYA",
+    "sumber": "tertulis di halaman Kontak situs resmi Tea Break Indo, dibuka 21 Nov"
+   },
+   {
+    "urutan": 2,
+    "status": "mx-saja",
+    "tindakan": "TANYA",
+    "sumber": "tertulis di halaman utama situs resmi, dibuka 21 Nov"
+   },
+   {
+    "urutan": 3,
+    "status": "mx-saja",
+    "tindakan": "TANYA",
+    "sumber": "tertulis di halaman utama situs resmi, dibuka 21 Nov"
+   },
+   {
+    "urutan": 4,
+    "status": "mx-saja",
+    "tindakan": "BUANG",
+    "sumber": "tidak ditemukan di situs resmi (6 halaman dicek); Felix putuskan jangan dikirim, 21 Nov"
+   }
+  ],
+  "catatan": "Urutan = urutan alamat di perintah A5 (marketing.transindoinnovative, beta-uas, momofin, algobash). Alamat utuh hanya di outreach/hasil-verifikasi-2026-11-21.csv (laptop, tidak diunggah)."
+ },
+ "pertanyaan": [
+  {
+   "teks": "4 alamat antrian A5 (21 Nov) hanya lolos cek MX; kotak surat belum bisa dicek (port 25 tertutup, Reacher mati). Bagaimana?",
+   "opsi": [
+    "Tahan sampai dicek lewat hotspot/jaringan lain (Rekomendasi: tidak ada risiko bounce baru, Felix tidak perlu apa-apa dulu)",
+    "Jalankan pasang-reacher.ps1 (Docker) lalu ulangi, port 25 tetap butuh jaringan lain",
+    "Kirim apa adanya; bounce nyata baru kelihatan setelah kirim"
+   ],
+   "dipakai_sementara": "tahan; tidak ada email dikirim"
+  },
+  {
+   "teks": "Reels Rab 18 Nov belum bisa dirender otomatis (alat/vo-reels.py hilang, node minta izin). Cara membukanya?",
+   "opsi": [
+    "Felix jalankan '/manager lanjut A6 reels deck-atau-katalog' di layar, naskah dan caption sudah siap (Rekomendasi: tercepat, tidak mengubah pengaman)",
+    "Felix kembalikan zip alat lengkap (vo-reels.py) ke folder ini",
+    "Rab 18 Nov pakai stok yang sudah ada (geser Reels Kam-Sab maju satu hari)"
+   ],
+   "dipakai_sementara": "opsi 1; Reels lain tidak berubah"
+  },
+  {
+   "teks": "Porsi B18.15.4 minggu 16-21 Nov (S-G 2, deck 4, S-E 1, S-F 1) belum terpenuhi: stok sudah 7 dari 8 unggahan bergenre S-A..S-D, hanya Rab 18 Nov yang S-E. Carousel Jum 20 Nov 'kamus-investor' (S-B) mau ditukar ke seri baru?",
+   "opsi": [
+    "Tetap (Rekomendasi: sudah jadi dan dirombak Felix 14 Nov; porsi mulai terpenuhi dari 23 Nov)",
+    "Ganti carousel Jum 20 Nov ke S-E atau S-G, 'kamus-investor' dipindah ke minggu depan"
+   ],
+   "dipakai_sementara": "opsi 1"
+  },
+  {
+   "teks": "Slot carousel Selasa 17 Nov 12.00 kosong karena 'cek-proposal-mitra' tayang lebih awal. Laptop 15 Nov 15.00 sudah membuat carousel baru 'grafik-sumbu' (S-D, siap-unggah). Dipakai untuk Selasa?",
+   "opsi": [
+    "Ya, 'grafik-sumbu' tayang Selasa 12.00, 'Kamus investor' tetap Jumat 20 Nov (Rekomendasi: kedua slot terisi, tidak ada isi kembar)",
+    "Tukar: 'Kamus investor' ke Selasa, 'grafik-sumbu' ke Jumat",
+    "Selasa tanpa carousel minggu ini"
+   ],
+   "dipakai_sementara": "opsi 1 (naskah cloud Minggu 21.00 tidak perlu untuk slot ini)"
+  },
+  {
+   "teks": "Reels Senin 16 Nov ditukar: 'Cek ini sebelum kirim dek' kembar isi dengan carousel Selasa 12.00 (2 dari 4 butir sama). Senin pakai yang mana?",
+   "opsi": [
+    "Senin 'Satu pembeli baru, biayanya berapa?' (Rekomendasi: sudah siap-unggah, tidak kembar; 'Cek ini' tunggu minggu depan)",
+    "Senin 'Cek ini sebelum kirim dek', carousel Selasa digeser ke Jumat 20 Nov"
+   ],
+   "dipakai_sementara": "opsi 1"
+  },
+  {
+   "teks": "Contoh Geprek Lumbung sudah dipakai di Reels 12, 13, 14 Nov, dan Reels Senin juga. Tetap?",
+   "opsi": [
+    "Tetap (Rekomendasi: sektor minggu ini kemitraan/franchise, semua berlabel karangan)",
+    "Mulai minggu depan ganti contoh usaha karangan lain"
+   ],
+   "dipakai_sementara": "opsi 1"
+  },
+  {
+   "teks": "4 alamat outreach hanya lolos cek MX (port 25 di jaringan rumah tertutup, Reacher belum terpasang). Draf Gmail-nya dikirim?",
+   "opsi": [
+    "Kirim juga (Rekomendasi: kedua alamat tertulis di situs resmi usaha, MX Gmail aktif)",
+    "Tahan sampai dicek lewat hotspot/jaringan lain",
+    "Jalankan pasang-reacher.ps1 dulu"
+   ],
+   "dipakai_sementara": "tidak ada yang dikirim; Felix yang mengirim"
+  }
+ ],
+ "catatan": "Run 15.00 Min 15 Nov: antrian repo masih 404; carousel Sel 17 Nov 'grafik-sumbu' (S-D) siap-unggah. Kandidat pertama 'Tiga label data' ditolak karena sudah tayang 13 Nov (cek-overlap tidak menangkapnya, ditemukan dari baca caption). Kosong tersisa: Reels Rab 18 Nov (naskah cloud Minggu 21.00 atau laptop menulis sendiri Senin 10.00). Hunter MCP timeout; verifikasi email tidak diulang (sudah 4 dicek 10.00). | Run 10.00 Min 15 Nov: antrian repo 404 (antrian/antrian.json belum ada); alat/perangkat.txt belum ada, status tetap laptop.json. Windsor (trial 30 hari) menunjukkan Reels pesaing tayang 14 Nov 11.59 dan carousel cek-proposal-mitra tayang 14 Nov 19.00 (lebih awal dari jadwal Selasa). Reels Sel 17 Nov 'slide-masalah' (S-C) siap-unggah; naskah ditulis laptop karena slot kosong. Stok Reels siap: Sen 16, Sel 17, Kam 19, Jum 20, Sab 21. Kosong: Reels Rab 18 Nov dan carousel Sel 17 Nov (butuh naskah cloud Minggu 21.00, atau laptop menulis sendiri di run Senin). Hunter MCP gagal tersambung di run ini. Kuota ElevenLabs akun laptop: sisa 32 huruf sampai 4 Des; connector ElevenLabs: terpakai sekitar 1.800 dari 10.000. Semua konten tetap perlu 'unggah' dari Felix di Manager cloud. 16 Nov 18.00: Reels Senin 'pembeli-baru' dibangun ulang V2 (hook masalah nyata, suara Liam eleven_v4, SFX dan transisi wipe kuning). 16 Nov 18.20: Reels Senin pembeli-baru V3 (gaya modern rapi, tanpa getar). 17 Nov 10.30: Reels Selasa slide-masalah dirombak V2 (Liam eleven_v4, tema D modern, 27,6 dtk, semua gerbang lolos). 17 Nov 12.30: Reels slide-masalah V3 (naskah logis, narator profesional, audio jernih, isi di tengah).",
+ "perangkat": "laptop"
+}
