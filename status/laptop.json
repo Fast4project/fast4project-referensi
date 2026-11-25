@@ -438,14 +438,14 @@
    "caption": "7 hari, 0 balasan. Slide terakhirmu cuma \"Terima kasih\"? Pembacanya sampai di halaman itu, lalu bingung harus ngapain.\n\nContoh di video: Kopi Lereng Ranu, penjual biji kopi, kirim presentasi ke pemilik kafe. Halaman terakhirnya cuma terima kasih dan logo.\n\nGanti dengan tiga hal:\n1. Apa yang kamu minta. Contoh: coba kopi kami dua minggu.\n2. Cara mulai yang gampang. Contoh: balas pesan ini, satu bungkus kami kirim.\n3. Siapa yang bisa dihubungi: nama dan nomor WA.\n\nTerima kasihnya tetap boleh, cukup kecil di bawah.\n\nPresentasi terakhirmu sudah berapa hari belum dibalas? Tulis angkanya di komentar.\n\nKopi Lereng Ranu: usaha karangan untuk portofolio. Isi slide dan chat ilustratif.\n\nSimpan, cek lagi sebelum presentasimu dikirim.\n\n#pitchdeck #umkm #proposalkemitraan #proposalusaha #presentasi",
    "caption_tiktok": "7 hari, 0 balasan. Slide terakhirmu cuma terima kasih? Ganti 3 hal. Presentasimu sudah berapa hari belum dibalas? Tulis angkanya. Usaha karangan.\n\n#pitchdeck #umkm #presentasi #tipsusaha",
    "urls": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-referensi/3a456808a1ff1102a62573650c6129ee2397c834/reels-25-nov-slide-penutup/final-v5-vo.mp4"
+    "https://raw.githubusercontent.com/Fast4project/fast4project-referensi/b03b6a2ee5e65ae1ebc98a473890345665c53ec1/reels-25-nov-slide-penutup/final-v5-vo.mp4"
    ],
    "cover": {
     "thumb_offset": 0
    },
-   "qc": "V5-VO F2 (25 Nov): 1080x1920 30 fps 26,0 dtk · VO 11 potongan sesuai peta detik (selisih <= 0,3 dtk; baris 1 dipercepat 1,12x agar muat) · subtitle kata demi kata 34 kata (y 1540, di bawah label karangan) · musik beat-pelan ±12 dB di bawah VO (celah -8, bicara -12) + 22 SFX diredam 3 dB saat VO · -14,0 LUFS TP -2,6 LRA 2,8 · freezedetect 0 · gambar diperbaiki: teks baris kartu luber (font 38->31) dan BEDA menempel · 20 frame dari final dilihat · kata VO tidak diubah (dari rombak revisi 2). Belum didengar manusia: telinga Felix untuk lafal. Versi tanpa VO: final-v5.mp4 (URL lama berisi gambar sebelum perbaikan luber; berkas lokal sudah diperbaiki)",
+   "qc": "V5-VO-b (naskah VO ditulis ulang untuk retensi, pelajaran Agent 6 Versi 2): 1080x1920 30 fps 26,0 dtk · VO Liam 17 potongan tanpa tumpang tindih, tiap baris di peta detik (selisih <= 0,3 dtk; 3 baris dipercepat 1,1-1,12x) · tambahan suara: \"Masih. Nol.\" 4,5-5,3 (isi celah senyap), \"Tiga hal saja\" 8,15, pemicu komentar DIUCAPKAN di 11,6 (\"Berapa hari belum dibalas?\") dan di akhir (\"Tulis angkanya\"), \"Hari satu. Balasan satu.\" di pembalikan 17,6, jawaban tidak diucapkan sebelum 17 dtk · subtitle kata demi kata 48 kata · -14,1 LUFS TP -2,6 LRA 3,4 · freezedetect 0 · 12 frame dilihat · cek-tulisan-manusia VO KRITIS 0 · belum didengar manusia. Versi VO sebelumnya: final-v5-vo-lama.mp4",
    "alasan_pilihan": "Perintah /manager lanjut A6 dari Felix (S-A, tema A, musik hangat). Berkas produksi versi Project tidak ada di laptop; Felix memutuskan produksi dari nol di laptop sesuai prosedur: naskah ditulis di claude/produksi-2026-11-25-slide-penutup.md lewat rantai gaya-ngomong-gaul, copy-hangat-berlogika, stop-slop. Kopi Lereng Ranu = usaha karangan untuk portofolio. Musik hangat: topik ringan + ajakan, trek terakhir penasaran.",
-   "versi": "v5-vo",
+   "versi": "v5-vo-b",
    "ganti_dari": "d45db05",
    "versi_baru": "final-v5-vo.mp4",
    "format_kerangka": "F2",
@@ -453,7 +453,8 @@
    "versi_lama": "final-v4.mp4 (tetap berlaku bila v5 tidak dipilih)",
    "elemen": "hook angka dua tahap, penghitung HARI/BALASAN dari frame 0, tiga kotak kosong 8-17 dtk, rewind 6,5-8, pembalikan chat 17-20,8, kalimat balik 20,8-23, pemicu \"tulis angkanya\" x2 (11,6 dan 23), kartu penutup 2,6 dtk, loop ke frame 0",
    "catatan_hipotesis": "IG skip 3 dtk < 55% (baseline 64,4%); TikTok tersisa detik 3 > 50% (baseline 42%); tonton rata-rata >= 70% durasi; komentar >= 1. Semua elemen sekaligus: penyebab belum bisa dipisah.",
-   "suara": "Liam (ElevenLabs, voice_id TX3LPaxmHKxFdv7VOQHJ, eleven_multilingual_v2, resep 13 Nov), per baris, ditaruh di peta detik v5"
+   "suara": "Liam (ElevenLabs, voice_id TX3LPaxmHKxFdv7VOQHJ, eleven_multilingual_v2, resep 13 Nov), per baris, ditaruh di peta detik v5",
+   "vo_naskah": "﻿Tujuh hari. Nol balasan. / Slide terakhirmu cuma terima kasih? / Masih. Nol. / Coba ulang. / Tiga hal saja. / Satu: apa yang kamu minta. / Berapa hari belum dibalas? / Dua: cara mulainya. / Tiga: siapa yang dihubungi. / Hari satu. Balasan satu. / Pesannya sama. Halaman terakhirnya beda. / Sudah berapa hari belum dibalas? Tulis angkanya."
   },
   {
    "format": "paket",
