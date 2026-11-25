@@ -438,21 +438,22 @@
    "caption": "7 hari, 0 balasan. Slide terakhirmu cuma \"Terima kasih\"? Pembacanya sampai di halaman itu, lalu bingung harus ngapain.\n\nContoh di video: Kopi Lereng Ranu, penjual biji kopi, kirim presentasi ke pemilik kafe. Halaman terakhirnya cuma terima kasih dan logo.\n\nGanti dengan tiga hal:\n1. Apa yang kamu minta. Contoh: coba kopi kami dua minggu.\n2. Cara mulai yang gampang. Contoh: balas pesan ini, satu bungkus kami kirim.\n3. Siapa yang bisa dihubungi: nama dan nomor WA.\n\nTerima kasihnya tetap boleh, cukup kecil di bawah.\n\nPresentasi terakhirmu sudah berapa hari belum dibalas? Tulis angkanya di komentar.\n\nKopi Lereng Ranu: usaha karangan untuk portofolio. Isi slide dan chat ilustratif.\n\nSimpan, cek lagi sebelum presentasimu dikirim.\n\n#pitchdeck #umkm #proposalkemitraan #proposalusaha #presentasi",
    "caption_tiktok": "7 hari, 0 balasan. Slide terakhirmu cuma terima kasih? Ganti 3 hal. Presentasimu sudah berapa hari belum dibalas? Tulis angkanya. Usaha karangan.\n\n#pitchdeck #umkm #presentasi #tipsusaha",
    "urls": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-referensi/e8ca14a117d092bc641b0f72f8b00b2d4b5af58a/reels-25-nov-slide-penutup/final-v5.mp4"
+    "https://raw.githubusercontent.com/Fast4project/fast4project-referensi/3a456808a1ff1102a62573650c6129ee2397c834/reels-25-nov-slide-penutup/final-v5-vo.mp4"
    ],
    "cover": {
     "thumb_offset": 0
    },
-   "qc": "V5 F2 (rombak revisi 2, 25 Nov): 1080x1920 30 fps 26,0 dtk · tanpa VO, musik beat-pelan + 22 SFX · -14,0 LUFS TP -3,0 LRA 2,2 · freezedetect 0 · balasan pertama muncul 17,15 dtk · pemicu 11,6 dan 23,0 dtk · kartu penutup 23,0-25,6 (2,6 dtk) · frame akhir vs frame 0 selisih rata-rata 4,8/255 · label + \"ilustratif\" tampil 0-26 dtk · cek-posisi-tengah titik berat 42-55%, 11/12 lolos (17,8 dtk 26% di luar pita tengah, selisih 1 poin = catatan) · 12 frame dari final-v5.mp4 dilihat · cek-tulisan-manusia caption KRITIS 0, caption_tiktok 145 karakter KRITIS 0",
+   "qc": "V5-VO F2 (25 Nov): 1080x1920 30 fps 26,0 dtk · VO 11 potongan sesuai peta detik (selisih <= 0,3 dtk; baris 1 dipercepat 1,12x agar muat) · subtitle kata demi kata 34 kata (y 1540, di bawah label karangan) · musik beat-pelan ±12 dB di bawah VO (celah -8, bicara -12) + 22 SFX diredam 3 dB saat VO · -14,0 LUFS TP -2,6 LRA 2,8 · freezedetect 0 · gambar diperbaiki: teks baris kartu luber (font 38->31) dan BEDA menempel · 20 frame dari final dilihat · kata VO tidak diubah (dari rombak revisi 2). Belum didengar manusia: telinga Felix untuk lafal. Versi tanpa VO: final-v5.mp4 (URL lama berisi gambar sebelum perbaikan luber; berkas lokal sudah diperbaiki)",
    "alasan_pilihan": "Perintah /manager lanjut A6 dari Felix (S-A, tema A, musik hangat). Berkas produksi versi Project tidak ada di laptop; Felix memutuskan produksi dari nol di laptop sesuai prosedur: naskah ditulis di claude/produksi-2026-11-25-slide-penutup.md lewat rantai gaya-ngomong-gaul, copy-hangat-berlogika, stop-slop. Kopi Lereng Ranu = usaha karangan untuk portofolio. Musik hangat: topik ringan + ajakan, trek terakhir penasaran.",
-   "versi": "v5",
+   "versi": "v5-vo",
    "ganti_dari": "d45db05",
-   "versi_baru": "final-v5.mp4",
+   "versi_baru": "final-v5-vo.mp4",
    "format_kerangka": "F2",
    "format_reels": "F2 Coba ulang",
    "versi_lama": "final-v4.mp4 (tetap berlaku bila v5 tidak dipilih)",
    "elemen": "hook angka dua tahap, penghitung HARI/BALASAN dari frame 0, tiga kotak kosong 8-17 dtk, rewind 6,5-8, pembalikan chat 17-20,8, kalimat balik 20,8-23, pemicu \"tulis angkanya\" x2 (11,6 dan 23), kartu penutup 2,6 dtk, loop ke frame 0",
-   "catatan_hipotesis": "IG skip 3 dtk < 55% (baseline 64,4%); TikTok tersisa detik 3 > 50% (baseline 42%); tonton rata-rata >= 70% durasi; komentar >= 1. Semua elemen sekaligus: penyebab belum bisa dipisah."
+   "catatan_hipotesis": "IG skip 3 dtk < 55% (baseline 64,4%); TikTok tersisa detik 3 > 50% (baseline 42%); tonton rata-rata >= 70% durasi; komentar >= 1. Semua elemen sekaligus: penyebab belum bisa dipisah.",
+   "suara": "Liam (ElevenLabs, voice_id TX3LPaxmHKxFdv7VOQHJ, eleven_multilingual_v2, resep 13 Nov), per baris, ditaruh di peta detik v5"
   },
   {
    "format": "paket",
@@ -624,6 +625,12 @@
    "agent": "A6",
    "tugas": "rombak video slide-penutup v5 format F2 Coba ulang",
    "bukti": "video/2026-11-25-slide-penutup/final-v5.mp4",
+   "status": "selesai"
+  },
+  {
+   "agent": "A6",
+   "tugas": "pasang VO video slide-penutup v5 (Liam, subtitle kata demi kata)",
+   "bukti": "video/2026-11-25-slide-penutup/final-v5-vo.mp4",
    "status": "selesai"
   }
  ],
